@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-<h3 align="left">An Italian Software Engineer with a passion for user and customer experience through cutting edge technology and innovation. I am interested in data structures and algorithms, algorithmic trading and machine learning with a curiosity for AI. Always eager to learn something new.
+<p align="left">An Italian Software Engineer with a passion for user and customer experience through cutting edge technology and innovation. I am interested in data structures and algorithms, algorithmic trading and machine learning with a curiosity for AI. Always eager to learn something new.
 
-Passionate about open source, looking to find my space in this world.</h3>
+Passionate about open source, looking to find my space in this world.</p>
 
 - 🔭 currently working on a **RaspberryPi project**, and with cpp and python
 - 👍 looking for freelance opportunities
@@ -19,8 +19,8 @@ Passionate about open source, looking to find my space in this world.</h3>
 
 ## How to reach me
 <p align="center">
-<a href="https://dev.to/davidgerva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="davidgerva" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/davidgervasoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="davidgervasoni" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/davidgervasoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="davidgervasoni" height="30" width="30" /></a>
 <a href="mailto:davidgerva@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="davidgerva@gmail.com" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/davidgervasoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="davidgervasoni" height="30" width="30" /></a>
+<a href="https://dev.to/davidgerva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="davidgerva" height="30" width="30" /></a>
 </p>
