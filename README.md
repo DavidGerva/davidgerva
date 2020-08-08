@@ -19,8 +19,8 @@ Passionate about open source, looking to find my space in this world.</p>
 
 ## How to reach me
 <p align="center">
+<a href="https://registry.jsonresume.org/davidgerva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sitepoint.svg" alt="my resume" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/davidgervasoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="davidgervasoni" height="30" width="30" /></a>
 <a href="mailto:davidgerva@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="davidgerva@gmail.com" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/davidgervasoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="davidgervasoni" height="30" width="30" /></a>
-<a href="https://dev.to/davidgerva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="davidgerva" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/story/davidgervasoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="davidgervasoni" height="30" width="30" /></a>
 </p>
