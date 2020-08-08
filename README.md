@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-<p align="left">An Italian Software Engineer with a passion for user and customer experience through cutting edge technology and innovation. I am interested in data structures and algorithms, algorithmic trading and machine learning with a curiosity for AI. Always eager to learn something new.
-
-Passionate about open source, looking to find my space in this world.</p>
+<p align="left">An Italian Software Engineer with a passion for user and customer experience through cutting edge technology and innovation. I am interested in data structures and algorithms, algorithmic trading and machine learning with a curiosity for AI. Always eager to learn something new. Passionate about opensource, looking to find my space in this world.</p>
 
 - 🔭 currently working on a **RaspberryPi project**, and with cpp and python
 - 👍 looking for freelance opportunities
