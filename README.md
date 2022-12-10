@@ -6,7 +6,7 @@ technologies, best practices and complex workflows.</p>
 
 - 🌱 currently learning **AI**, **ML**, **NLP**
 - 😊 willing to contribute in opensource projects.
-- 📄 here you can find my cv: <a href="https://registry.jsonresume.org/davidgerva" target="blank">online resume</a>
+- 📄 here you can find my cv: <a href="[https://registry.jsonresume.org/davidgerva](https://gist.github.com/DavidGerva/6b8e5173c1338d3ebb506781f1230bf5)" target="blank">online resume</a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=davidgerva" alt="davidgerva" /> </p>
 
