@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://davidgerva.github.io/al-folio/sitemap.xml
+Sitemap: https://davidgerva.github.io/sitemap.xml
