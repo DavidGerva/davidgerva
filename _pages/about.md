@@ -33,8 +33,8 @@ I'm software engineer living in 🇩🇪 Germany, originally from 🇮🇹 Italy
 I'm currently working at [Checkmk](https://checkmk.com/).
 
 I have a wide range of interests, though none of them have gotten the deep dive I wish they would.
-Aside from programming,
-I enjoy reading, running, swimming, trying new foods and restaurants, and sipping tea and coffee.
-Oh, and I have a bit of a strange passion for knots.
+Aside from programming 💻, I enjoy reading 📚, running 🏃, swimming 🏊, trying new foods and restaurants 🍴, and sipping tea 🍵 and coffee ☕.
+Oh, and I have a bit of a strange passion for knots 🔗.
+
 I really like to meet new people and learn about their lives, so feel free to reach out to me if you want to chat!
-I prefer emails.
+I prefer emails ✉️.
