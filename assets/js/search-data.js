@@ -364,7 +364,32 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-crucial-conversations",
+          title: 'Crucial Conversations',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/crucial_conversation/";
+            },},{id: "books-the-hunger-games-hunger-games-volume-1",
+          title: 'The Hunger Games - Hunger Games volume 1',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hunger_games/";
+            },},{id: "books-i-vostri-diritti-in-germania",
+          title: 'I vostri diritti in Germania',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/i_vostri_diritti/";
+            },},{id: "books-il-canto-della-rivolta-hunger-games-volume-3",
+          title: 'Il canto della rivolta - Hunger Games volume 3',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/il_canto_della_rivolta/";
+            },},{id: "books-la-ragazza-di-fuoco-hunger-games-volume-2",
+          title: 'La ragazza di fuoco - Hunger Games volume 2',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/la_ragazza_di_fuoco/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
