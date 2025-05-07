@@ -23,6 +23,7 @@ baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
+cv_pdf: https://gist.githubusercontent.com/DavidGerva/6b8e5173c1338d3ebb506781f1230bf5/raw/57fbd8bfe928a80295707fa2618608b04ad6ce09/David%2520CV.pdf
 
 # -----------------------------------------------------------------------------
 # Theme
